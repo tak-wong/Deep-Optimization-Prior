@@ -1,11 +1,18 @@
-# Deep Optimization Prior for THz Model Parameter Estimation
+# Deep-Optimization-Prior
+Deep Optimization Prior for THz Model Parameter Estimation
 
+## How to download dataset
+(will be added later)
 
-Distribution code Version 1.0 -- 14/10/2021 by Tak Ming Wong Copyright 2021, University of Siegen
+## How to train
+(will be added later)
 
-The Code is created based on the method described in the following paper 
-"Deep Optimization Prior for THz Model Parameter Estimation", T.M. Wong, H. Bauermeister, M. Kahl, P. Haring Bolivar, M. Moeller, A. Kolb, 
-Winter Conference on Applications of Computer Vision (WACV) 2022.
+## How to infer after training
+(will be added later)
 
-If you use this code in your scientific publication, please cite the mentioned paper.
-The code and the algorithm are for non-comercial use only.
+## How to Cite
+If you use this code in your scientific publication, please cite the paper
+
+   **Deep Optimization Prior for THz Model Parameter Estimation**
+     (T.M. Wong, H. Bauermeister, M. Kahl, P. Haring Bolivar, M. Moeller, A. Kolb),
+     In Winter Conference on Applications of Computer Vision (WACV) 2022
