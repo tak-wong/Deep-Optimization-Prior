@@ -17,7 +17,7 @@ There are two ways to train:
 
 *Using Python*
 1. Prepare your dataset folder path (i.e., "./dataset")
-2. Prepare your result folder path (i.e., "./dataset")
+2. Prepare your result folder path (i.e., "./result")
 3. Set your desired optimizer (i.e., "unet")
 4. Select your dataset (i.e., "metalpcb")
 5. Select your learning rate (i.e., 0.01)
