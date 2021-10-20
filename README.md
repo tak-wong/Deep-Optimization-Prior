@@ -16,11 +16,11 @@ There are two ways to train:
 1. See [example.ipynb](example.ipynb)
 
 *Using Python*
-1. Prepare your dataset folder path (i.e., "./dataset")
-2. Prepare your result folder path (i.e., "./result")
-3. Set your desired optimizer (i.e., "unet")
-4. Select your dataset (i.e., "metalpcb")
-5. Select your learning rate (i.e., 0.01)
+1. Prepare your dataset folder path (e.g. `./dataset`)
+2. Prepare your result folder path (e.g. `./result`)
+3. Set your desired optimizer (e.g. `unet`)
+4. Select your dataset (e.g. `metalpcb`)
+5. Select your learning rate (e.g. `0.01`)
 6. Pass all these parameters to `train.py`
 
 For example:
