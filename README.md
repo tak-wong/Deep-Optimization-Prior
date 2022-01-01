@@ -7,7 +7,15 @@ Conceptually, our deep optimization prior approach estimates the desired THz mod
 
 We verify this claim numerically on various THz parameter estimation problems for synthetic and real data under low SNR and shot noise conditions.  While the low SNR scenario not even requires regularization, the impact of shot noise is significantly reduced by total variation (TV) regularization. We compare our approach with existing optimization techniques that require sophisticated physically motivated initialization, and with a 1D single-pixel reparametrization method.
 
+## Download paper
+
+The paper is available at:<br/>
 https://openaccess.thecvf.com/content/WACV2022/html/Wong_Deep_Optimization_Prior_for_THz_Model_Parameter_Estimation_WACV_2022_paper.html
+
+## Presentation
+
+The presentation video is available on Youtube:<br/>
+https://www.youtube.com/watch?v=6JP-q5C9E_4
 
 ## How to download dataset
 
@@ -39,6 +47,15 @@ For more details, please check the shell script [example.sh](example.sh) or chec
 ## How to Cite
 If you use this code in your scientific publication, please cite the paper
 
-   **Deep Optimization Prior for THz Model Parameter Estimation**
-     (T.M. Wong, H. Bauermeister, M. Kahl, P. Haring Bolivar, M. Moeller, A. Kolb),
-     In Winter Conference on Applications of Computer Vision (WACV) 2022
+   **Deep Optimization Prior for THz Model Parameter Estimation**<br/>
+     *Tak Ming Wong, Hartmut Bauermeister, Matthias Kahl, Peter Haring Bolívar, Michael Möller, Andreas Kolb,*<br/>
+     Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2022, pp. 3811-3820
+     
+     @InProceedings{Wong_2022_WACV,
+        author    = {Wong, Tak Ming and Bauermeister, Hartmut and Kahl, Matthias and Bol{\'\i}var, Peter Haring and M\"oller, Michael and Kolb, Andreas},
+        title     = {Deep Optimization Prior for THz Model Parameter Estimation},
+        booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+        month     = {January},
+        year      = {2022},
+        pages     = {3811-3820}
+    }
